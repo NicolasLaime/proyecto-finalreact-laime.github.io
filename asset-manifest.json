@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/proyecto-finalreact-laime.github.io/static/css/main.ad39d935.css",
+    "main.js": "/proyecto-finalreact-laime.github.io/static/js/main.a1708317.js",
+    "index.html": "/proyecto-finalreact-laime.github.io/index.html",
+    "main.ad39d935.css.map": "/proyecto-finalreact-laime.github.io/static/css/main.ad39d935.css.map",
+    "main.a1708317.js.map": "/proyecto-finalreact-laime.github.io/static/js/main.a1708317.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad39d935.css",
+    "static/js/main.a1708317.js"
+  ]
+}
